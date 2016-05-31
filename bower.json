@@ -1,0 +1,13 @@
+{
+  "name": "purescript-hm-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-maps": "1.0.0-rc.2",
+    "purescript-psci-support": "1.0.0-rc.2"
+  }
+}
